@@ -62,7 +62,6 @@ Proyecto-Criminalidad-España
 El dashboard incluye análisis de:
 
 - Evolución temporal de los principales delitos  
-- Comparación entre comunidades autónomas y provincias  
 - Cambios estacionales y tendencias  
 - Peso de cada tipo de delito  
 - Insights destacados extraídos del análisis  
